@@ -36,3 +36,5 @@ python3 churn_model.py
 ## Business Impact
 Targeting the 286 recoverable accounts represents an estimated 
 12-15% recovery of at-risk revenue — approximately $19,966/month.
+## Dashboard Preview
+![Dashboard](dashboard_preview.png)
